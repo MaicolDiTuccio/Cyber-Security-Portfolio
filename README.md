@@ -20,7 +20,7 @@
 Benvenuti in questa repository dedicata alla documentazione di laboratori pratici e progetti di sicurezza informatica. Il percorso spazia dal networking, alle tecniche di penetration testing, all'uso di strumenti avanzati e alle moderne operazioni di difesa aziendale.
 
 **<h1>📂 Struttura del Percorso</h1>**
-**<h1>1. Hacking & Networking 🌐</h1>**
+**<h1>Hacking & Networking 🌐</h1>**
 
   In questa sezione sono raccolti i report sulle fondamenta tecniche necessarie per la sicurezza:
 
@@ -34,7 +34,7 @@ Benvenuti in questa repository dedicata alla documentazione di laboratori pratic
 
 --------------------------------------------------------------------------------------------------------
 
-**<h1>2. Attacco & Difesa: Penetration Testing ⚔️</h1>**
+**<h1>Attacco & Difesa: Penetration Testing ⚔️</h1>**
 
   **Documentazione delle fasi operative di un attacco etico:**
 
@@ -50,7 +50,7 @@ Benvenuti in questa repository dedicata alla documentazione di laboratori pratic
 
 --------------------------------------------------------------------------------------------------------
 
-**<h1>3. Strumenti Avanzati & Dark Web 🛠️</h1>**
+**<h1>Strumenti Avanzati & Dark Web 🛠️</h1>**
 
   Approfondimento su tool professionali e scenari complessi:
 
@@ -64,7 +64,7 @@ Benvenuti in questa repository dedicata alla documentazione di laboratori pratic
 
 --------------------------------------------------------------------------------------------------------
 
-**<h1>4. Analisi delle Minacce 🛡️</h1>**
+**<h1>Analisi delle Minacce 🛡️</h1>**
   Focus sulla parte difensiva e sulla gestione degli incidenti in ambito aziendale:
 
   **🦠 Malware Analysis:** Studio delle minacce moderne, incluse quelle basate su AI 🤖.

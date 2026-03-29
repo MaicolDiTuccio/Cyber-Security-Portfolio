@@ -26,7 +26,7 @@ Benvenuti in questa repository dedicata alla documentazione di laboratori pratic
 
    **📡 Networking:** Analisi approfondita dei protocolli TCP/IP, HTTP e HTTPS.
 
-   **🖥️ Ambiente di Lavoro:** Configurazione di laboratori virtuali (VirtualBox/VMware) con Kali Linux 🐉, Windows 🪟 e Linux 🐧.
+   **🖥️ Ambiente di Lavoro:** Configurazione di laboratori virtuali con Kali Linux 🐉, Windows 🪟 e Linux 🐧.
 
    **🐍 Coding for Security:** Scripting in C e Python per l'automazione dei task di sicurezza.
 
